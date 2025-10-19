@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224199518036",
+    "project_id": "ayush-4fe62",
+    "storage_bucket": "ayush-4fe62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224199518036:android:55e4090e510d70b5764ac1",
+        "android_client_info": {
+          "package_name": "com.example.ayush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfJdmyaXd9hJcgWuNRy6vA5tZi_nK47A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
